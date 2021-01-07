@@ -1,0 +1,11 @@
+.left,
+.right 
+{
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 30px;
+}
